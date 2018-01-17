@@ -166,8 +166,6 @@ Global
 		{65E5F555-DD64-4A71-BF90-CDD2DB2BD2AC}.Ad-Hoc|ARM.Build.0 = Release|ARM
 		{65E5F555-DD64-4A71-BF90-CDD2DB2BD2AC}.Ad-Hoc|ARM.Deploy.0 = Release|ARM
 		{65E5F555-DD64-4A71-BF90-CDD2DB2BD2AC}.Ad-Hoc|iPhone.ActiveCfg = Release|x86
-		{65E5F555-DD64-4A71-BF90-CDD2DB2BD2AC}.Ad-Hoc|iPhone.Build.0 = Release|x86
-		{65E5F555-DD64-4A71-BF90-CDD2DB2BD2AC}.Ad-Hoc|iPhone.Deploy.0 = Release|x86
 		{65E5F555-DD64-4A71-BF90-CDD2DB2BD2AC}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Release|x86
 		{65E5F555-DD64-4A71-BF90-CDD2DB2BD2AC}.Ad-Hoc|iPhoneSimulator.Build.0 = Release|x86
 		{65E5F555-DD64-4A71-BF90-CDD2DB2BD2AC}.Ad-Hoc|iPhoneSimulator.Deploy.0 = Release|x86
